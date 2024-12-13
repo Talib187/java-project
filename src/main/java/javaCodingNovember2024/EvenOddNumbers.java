@@ -15,6 +15,8 @@ public class EvenOddNumbers {
 			if(numbers[i]%2!=0) {
 				System.out.println("Odd numbers: "+numbers[i]);
 
+				// this is for testing.
+
 			}
 		}
 	}
