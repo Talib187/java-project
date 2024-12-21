@@ -17,11 +17,6 @@ public class checkEqualArray {
 					break;
 				}
 
-				else {
-
-					status = false;
-				}
-
 			}
 
 		} else {
